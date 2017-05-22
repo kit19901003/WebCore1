@@ -18,6 +18,11 @@ namespace WebCore1.Controllers
             return Content(s);
         }
 
+        public IActionResult Get2(string s)
+        {
+            return Content(s);
+        }
+
         public IActionResult About()
         {
             ViewData["Message"] = "Your application description page.";
