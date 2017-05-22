@@ -21,7 +21,7 @@
   },
   "targets": {
     ".NETCoreApp,Version=v1.1": {
-      "webcore1/1.0.0": {
+      "webcore1/1.0.2": {
         "dependencies": {
           "Microsoft.ApplicationInsights.AspNetCore": "2.0.0",
           "Microsoft.AspNetCore": "1.1.1",
@@ -3003,7 +3003,7 @@
     }
   },
   "libraries": {
-    "webcore1/1.0.0": {
+    "webcore1/1.0.2": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
