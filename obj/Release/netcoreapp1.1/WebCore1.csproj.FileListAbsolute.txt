@@ -1,0 +1,9 @@
+c:\users\johnson\documents\visual studio 2017\Projects\WebCore1\WebCore1\bin\Release\netcoreapp1.1\WebCore1.deps.json
+c:\users\johnson\documents\visual studio 2017\Projects\WebCore1\WebCore1\bin\Release\netcoreapp1.1\WebCore1.runtimeconfig.json
+c:\users\johnson\documents\visual studio 2017\Projects\WebCore1\WebCore1\bin\Release\netcoreapp1.1\WebCore1.runtimeconfig.dev.json
+c:\users\johnson\documents\visual studio 2017\Projects\WebCore1\WebCore1\bin\Release\netcoreapp1.1\WebCore1.dll
+c:\users\johnson\documents\visual studio 2017\Projects\WebCore1\WebCore1\bin\Release\netcoreapp1.1\WebCore1.pdb
+c:\users\johnson\documents\visual studio 2017\Projects\WebCore1\WebCore1\obj\Release\netcoreapp1.1\WebCore1.AssemblyInfo.cs
+c:\users\johnson\documents\visual studio 2017\Projects\WebCore1\WebCore1\obj\Release\netcoreapp1.1\WebCore1.dll
+c:\users\johnson\documents\visual studio 2017\Projects\WebCore1\WebCore1\obj\Release\netcoreapp1.1\WebCore1.pdb
+c:\users\johnson\documents\visual studio 2017\Projects\WebCore1\WebCore1\obj\Release\netcoreapp1.1\WebCore1.csprojResolveAssemblyReference.cache
